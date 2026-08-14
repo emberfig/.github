@@ -64,3 +64,21 @@ Every post names what it is based on, at the top, before the argument starts.
 
 **hello@emberfig.com**, or [emberfig.com/contact](https://emberfig.com/contact/).
 Two people read everything, and answer within three working days.
+
+---
+
+### [emberfig.com](https://emberfig.com)
+
+Apps, rebuilt properly. Built by two developers in Nigeria, for anyone on a phone
+that has to last.
+
+AdMob in the apps. No ads on the site. You never pay us and we never sell your data.
+
+| Apps | Writing | Studio |
+|---|---|---|
+| [StudyPomo](https://emberfig.com/apps/#studypomo) | [Teardowns](https://emberfig.com/teardowns/) | [About us](https://emberfig.com/about/) |
+| [Ponderanda](https://emberfig.com/apps/#ponderanda) (soon) | [Rebuild notes](https://emberfig.com/notes/) | [Report a broken app](https://emberfig.com/#tell-us) |
+| [All apps](https://emberfig.com/apps/) | [All writing](https://emberfig.com/writing/) | [Contact](https://emberfig.com/contact/) |
+| | [RSS feed](https://emberfig.com/rss.xml) | |
+
+(c) 2026 Emberfig  ·  [Privacy](https://emberfig.com/privacy/)  ·  [Cookies and ads](https://emberfig.com/privacy/#advertising)  ·  [Emberfig on Google Play](https://play.google.com/store/apps/developer?id=Emberfig)  ·  Made in Nigeria
